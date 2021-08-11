@@ -37,6 +37,8 @@ app.layout = html.Div([
     dcc.Markdown('''
         ### EOSC 372 GEOTRACES Assignment
         
+        Aug 11, 2021
+        
         #### Instructions  
         
         - Hover over a station (dots on the map) to plot the corresponding temperature, salinity, nitrate, and iron profiles in blue.

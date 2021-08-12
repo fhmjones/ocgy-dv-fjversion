@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+# UPDATED Aug 11, 2021, 4:40pm
 # Run this app with `python app.py` and visit http://127.0.0.1:8050/ in your web browser.
 # documentation at https://dash.plotly.com/
 # based on ideas at "Dash App With Multiple Inputs" in https://dash.plotly.com/basic-callbacks
@@ -38,7 +39,7 @@ app.layout = html.Div([
     dcc.Markdown('''
         ### EOSC 372 GEOTRACES Assignment
         
-        Aug 11, 2021
+        Version: Aug 11, 2021, 4:40pm
         
         #### Instructions  
         
